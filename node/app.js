@@ -1,0 +1,1 @@
+cosnole.log("Welcome to email service! :)")
